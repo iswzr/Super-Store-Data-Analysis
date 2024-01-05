@@ -2,7 +2,7 @@
 
 Hi there 👋! I'm super excited to share my first-ever data analysis project using MySQL. I did this just for fun to sharpen my SQL skills and instincts 🧠.
 
-I found a sample Superstore Orders dataset on Kaggle containing historical transactional data from a fictional supermarket store. The dataset includes order details like dates, shipping information, customer names, product details, sales, profits, costs, etc. It covers orders from 2014-2015.
+I found a sample Superstore Orders dataset on the Internet containing historical transactional data from a fictional supermarket store. The dataset includes order details like dates, shipping information, customer names, product details, sales, profits, costs, etc. It covers orders from 2012-2015.
 
 I loaded this dataset into a MySQL database and ran some queries to analyze the data - no specific business requirements, just following my curiosity! 🤓
 
